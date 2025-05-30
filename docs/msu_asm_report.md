@@ -183,7 +183,7 @@ dfuncs = {df1_w, df2_w, df3_w};
 
 ![alt text](plot1.png)
 
-![alt text](plot2png)
+![alt text](plot2.png)
 
 ---
 
