@@ -181,9 +181,9 @@ dfuncs = {df1_w, df2_w, df3_w};
 ---
 ### 7. Графики функций
 
-![alt text](../../../Downloads/plot1.png)
+![alt text](plot1.png)
 
-![alt text](../../../Downloads/plot2-1.png)
+![alt text](plot2png)
 
 ---
 
